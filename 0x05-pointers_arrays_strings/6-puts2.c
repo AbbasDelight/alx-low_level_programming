@@ -1,11 +1,10 @@
 #include "main.h"
 /**
- * puts2 - function that prints every other character of a string, 
+ * puts2 - function that prints every other character of a string,
  * starting with the first one
  * @str: input
  * Return: print
  */
-
 void puts2(char *str)
 {
 	int longi = 0;
