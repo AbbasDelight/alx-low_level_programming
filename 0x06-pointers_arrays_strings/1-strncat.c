@@ -2,7 +2,7 @@
 /**
  * _strncat - concatenate two strings
  * using at most n bytes from src
- * @dest: inout value
+ * @dest: input value
  * @src: input value
  * @n: input value
  *
