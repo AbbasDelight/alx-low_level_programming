@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts_recursion - function live puts0
+ * _puts_recursion - function live puts();
  * @s: input
  * Return: Always 0 (Success)
  */
